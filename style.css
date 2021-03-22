@@ -1,0 +1,29 @@
+#myCarousel img{
+    height: 500px !important;
+    width: 1200px;
+}
+
+.grid-4{
+display: flex;
+}
+
+.grid-4 img{
+height: 200px;
+width: 25%;
+}
+
+
+.grid-2{
+display: flex;
+justify-content: center;
+background:#000;
+}
+
+.grid-2 img{
+height: 200px;
+width: 25%;
+}
+
+h1{
+text-align: center;
+}
